@@ -1,0 +1,4 @@
+6.4.1 - https://scans.gradle.com/s/tgkltp7k3whie
+6.4.1, no jpamoelgen - https://scans.gradle.com/s/4r7g5iyf6zewi
+6.7 - https://scans.gradle.com/s/64wif322ghbq4
+6.7, no jpamodelgen - https://scans.gradle.com/s/ngll5ewtz4kuk

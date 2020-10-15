@@ -1,0 +1,15 @@
+plugins {
+    id "com.gradle.enterprise" version "3.4.1"
+}
+
+gradleEnterprise {
+    buildScan {
+        obfuscation {
+            username { name -> "demo" }
+            hostname { host -> "demo" }
+            ipAddresses { addresses -> ["0.0.0.0"] }
+        }
+    }
+}
+
+rootProject.name = "demo"
